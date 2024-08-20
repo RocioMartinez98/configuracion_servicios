@@ -11,7 +11,7 @@ spring:
         physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
 server: 
   port: 8000
-# Config de el servidor  
+# Config de el servidor
 eureka: 
   client:
     serviceUrl:
